@@ -4,4 +4,5 @@
     ✅Gray if past
     ✅Red if current
     ✅Green if future
-Save text in time block to localStorage
+✅Save events in time block to localStorage
+Display saved events from localStorage
