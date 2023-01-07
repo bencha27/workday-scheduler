@@ -5,4 +5,5 @@
     ✅Red if current
     ✅Green if future
 ✅Save events in time block to localStorage
-Display saved events from localStorage
+✅Display saved events from localStorage
+Style page with Bootstrap
