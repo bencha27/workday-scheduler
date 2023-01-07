@@ -1,0 +1,7 @@
+✅Display time blocks for workday
+Display the current day at the top of the calendar
+Color code time block
+    Gray if past
+    Red if current
+    Green if future
+Save text in time block to localStorage
