@@ -1,6 +1,10 @@
 $(function () {
-  var now = dayjs().format("dddd, MMMM D, YYYY");
-  $("#currentDay").text(now);
+  function displayTime() {
+    var now = dayjs().format("dddd, MMMM D, YYYY h:mm a");
+    $("#currentDay").text(now);
+  }
+  displayTime();
+  setInterval(displayTime, 1000);
   
   var currentHour = dayjs().format("H");
   var timeBlockArray = $("#schedule").children();
