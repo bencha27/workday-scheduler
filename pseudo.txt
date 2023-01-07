@@ -6,4 +6,4 @@
     ✅Green if future
 ✅Save events in time block to localStorage
 ✅Display saved events from localStorage
-Style page with Bootstrap
+✅Style page with Bootstrap
